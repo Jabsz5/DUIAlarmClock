@@ -16,8 +16,11 @@ The python script requires serial, AudioSegment, and play imports in order to us
 The raspbery pi was a bit annoying to setup. I had one in storage that I bought a long time but never used since I didn't have an HDMI cable adapter for it. The SD card slot was also having issues with bootup, so
 I had to boot the OS from a USB. The pi is also in low power mode since the pi didn't come with its original power supply adapter :p 
 
+![My Image](images/IMG_4564.jpg)
+
 The pi is also connected via bluetooth to an alexa speaker since I don't have any sound modules for now...
 
 Not much else to really say about the project. I'll maybe add some extra features if I come across any other dilemmas with it. 
 
 The current alarm plays '1 for 1 Dimaggio', fire song, but feel free to use any song of your choosing. 
+Overall, project took about ~3-4 working hours
