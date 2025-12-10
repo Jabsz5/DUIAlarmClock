@@ -1,4 +1,4 @@
-# DUIAlarmClock
+# DIYAlarmClock
 Simple alarm clock made with an arduino and raspberry pi setup
 
 Decided to make a small project since I was bored and felt like this would be pretty useful to me. It uses an LCD screen and 3 buttons hooked up to an arduino. ALL tools except the raspberry pi can be
