@@ -5,6 +5,8 @@ Decided to make a small project since I was bored and felt like this would be pr
 found in the Super Starter Kit UNO R3 Project package. 
 
 *insert picture of arduino and breadboard setup here*
+![My Image](images/IMG_4563.jpg)
+
 
 The python script reads the data from the arduino. The left button decrements the timer by 10 seconds; the right increments it by 10 seconds. The far right button sets the alarm in 'activate' mode. When in
 'activate' mode, the user clicks both the left and right buttons at the same time to start the timer. 
